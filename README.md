@@ -15,4 +15,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/omgorle15/LeetCode_Problems/tree/master/0009-palindrome-number) |
+## Database
+|  |
+| ------- |
+| [0180-consecutive-numbers](https://github.com/omgorle15/LeetCode_Problems/tree/master/0180-consecutive-numbers) |
 <!---LeetCode Topics End-->
