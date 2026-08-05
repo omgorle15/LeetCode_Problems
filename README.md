@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/omgorle15/LeetCode_Problems/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/omgorle15/LeetCode_Problems/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/omgorle15/LeetCode_Problems/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/omgorle15/LeetCode_Problems/tree/master/0202-happy-number) |
 | [0367-valid-perfect-square](https://github.com/omgorle15/LeetCode_Problems/tree/master/0367-valid-perfect-square) |
 ## Database
@@ -54,5 +55,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/omgorle15/LeetCode_Problems/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/omgorle15/LeetCode_Problems/tree/master/0367-valid-perfect-square) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/omgorle15/LeetCode_Problems/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
