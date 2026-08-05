@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/omgorle15/LeetCode_Problems/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/omgorle15/LeetCode_Problems/tree/master/0066-plus-one) |
+| [0202-happy-number](https://github.com/omgorle15/LeetCode_Problems/tree/master/0202-happy-number) |
 ## Database
 |  |
 | ------- |
@@ -36,8 +37,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/omgorle15/LeetCode_Problems/tree/master/0011-container-with-most-water) |
+| [0202-happy-number](https://github.com/omgorle15/LeetCode_Problems/tree/master/0202-happy-number) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/omgorle15/LeetCode_Problems/tree/master/0011-container-with-most-water) |
+## Hash Table
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/omgorle15/LeetCode_Problems/tree/master/0202-happy-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/omgorle15/LeetCode_Problems/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
