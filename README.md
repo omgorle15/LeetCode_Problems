@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/omgorle15/LeetCode_Problems/tree/master/0014-longest-common-prefix) |
 | [0136-single-number](https://github.com/omgorle15/LeetCode_Problems/tree/master/0136-single-number) |
 ## Bit Manipulation
 |  |
@@ -20,4 +21,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0180-consecutive-numbers](https://github.com/omgorle15/LeetCode_Problems/tree/master/0180-consecutive-numbers) |
 | [0584-find-customer-referee](https://github.com/omgorle15/LeetCode_Problems/tree/master/0584-find-customer-referee) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/omgorle15/LeetCode_Problems/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/omgorle15/LeetCode_Problems/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
