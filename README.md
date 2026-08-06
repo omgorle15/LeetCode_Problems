@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/omgorle15/LeetCode_Problems/tree/master/0014-longest-common-prefix) |
 | [0066-plus-one](https://github.com/omgorle15/LeetCode_Problems/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/omgorle15/LeetCode_Problems/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/omgorle15/LeetCode_Problems/tree/master/0169-majority-element) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/omgorle15/LeetCode_Problems/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/omgorle15/LeetCode_Problems/tree/master/0202-happy-number) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -61,4 +63,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/omgorle15/LeetCode_Problems/tree/master/0069-sqrtx) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/omgorle15/LeetCode_Problems/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/omgorle15/LeetCode_Problems/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/omgorle15/LeetCode_Problems/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/omgorle15/LeetCode_Problems/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
