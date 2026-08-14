@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0181-employees-earning-more-than-their-managers](https://github.com/omgorle15/LeetCode_Problems/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0185-department-top-three-salaries](https://github.com/omgorle15/LeetCode_Problems/tree/master/0185-department-top-three-salaries) |
 | [0584-find-customer-referee](https://github.com/omgorle15/LeetCode_Problems/tree/master/0584-find-customer-referee) |
+| [0586-customer-placing-the-largest-number-of-orders](https://github.com/omgorle15/LeetCode_Problems/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0595-big-countries](https://github.com/omgorle15/LeetCode_Problems/tree/master/0595-big-countries) |
 | [0596-classes-with-at-least-5-students](https://github.com/omgorle15/LeetCode_Problems/tree/master/0596-classes-with-at-least-5-students) |
 | [1527-patients-with-a-condition](https://github.com/omgorle15/LeetCode_Problems/tree/master/1527-patients-with-a-condition) |
