@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0596-classes-with-at-least-5-students](https://github.com/omgorle15/LeetCode_Problems/tree/master/0596-classes-with-at-least-5-students) |
 | [0619-biggest-single-number](https://github.com/omgorle15/LeetCode_Problems/tree/master/0619-biggest-single-number) |
 | [1527-patients-with-a-condition](https://github.com/omgorle15/LeetCode_Problems/tree/master/1527-patients-with-a-condition) |
+| [1965-employees-with-missing-information](https://github.com/omgorle15/LeetCode_Problems/tree/master/1965-employees-with-missing-information) |
 ## String
 |  |
 | ------- |
