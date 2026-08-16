@@ -16,12 +16,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/omgorle15/LeetCode_Problems/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/omgorle15/LeetCode_Problems/tree/master/0136-single-number) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/omgorle15/LeetCode_Problems/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/omgorle15/LeetCode_Problems/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/omgorle15/LeetCode_Problems/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/omgorle15/LeetCode_Problems/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/omgorle15/LeetCode_Problems/tree/master/0202-happy-number) |
 | [0367-valid-perfect-square](https://github.com/omgorle15/LeetCode_Problems/tree/master/0367-valid-perfect-square) |
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/omgorle15/LeetCode_Problems/tree/master/0014-longest-common-prefix) |
+| [0067-add-binary](https://github.com/omgorle15/LeetCode_Problems/tree/master/0067-add-binary) |
 ## Trie
 |  |
 | ------- |
@@ -96,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/omgorle15/LeetCode_Problems/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/omgorle15/LeetCode_Problems/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
