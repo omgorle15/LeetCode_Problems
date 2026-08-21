@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/omgorle15/LeetCode_Problems/tree/master/0014-longest-common-prefix) |
 | [0031-next-permutation](https://github.com/omgorle15/LeetCode_Problems/tree/master/0031-next-permutation) |
 | [0066-plus-one](https://github.com/omgorle15/LeetCode_Problems/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/omgorle15/LeetCode_Problems/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/omgorle15/LeetCode_Problems/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/omgorle15/LeetCode_Problems/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/omgorle15/LeetCode_Problems/tree/master/0169-majority-element) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/omgorle15/LeetCode_Problems/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/omgorle15/LeetCode_Problems/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/omgorle15/LeetCode_Problems/tree/master/0202-happy-number) |
 ## Floyd's Cycle Finding Algorithm
@@ -111,4 +113,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/omgorle15/LeetCode_Problems/tree/master/0231-power-of-two) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/omgorle15/LeetCode_Problems/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
