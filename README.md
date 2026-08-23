@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/omgorle15/LeetCode_Problems/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/omgorle15/LeetCode_Problems/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/omgorle15/LeetCode_Problems/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/omgorle15/LeetCode_Problems/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/omgorle15/LeetCode_Problems/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/omgorle15/LeetCode_Problems/tree/master/0231-power-of-two) |
 | [0367-valid-perfect-square](https://github.com/omgorle15/LeetCode_Problems/tree/master/0367-valid-perfect-square) |
@@ -133,4 +134,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/omgorle15/LeetCode_Problems/tree/master/0094-binary-tree-inorder-traversal) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/omgorle15/LeetCode_Problems/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/omgorle15/LeetCode_Problems/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
