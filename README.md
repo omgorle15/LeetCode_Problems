@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/omgorle15/LeetCode_Problems/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/omgorle15/LeetCode_Problems/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/omgorle15/LeetCode_Problems/tree/master/0070-climbing-stairs) |
+| [0168-excel-sheet-column-title](https://github.com/omgorle15/LeetCode_Problems/tree/master/0168-excel-sheet-column-title) |
 | [0202-happy-number](https://github.com/omgorle15/LeetCode_Problems/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/omgorle15/LeetCode_Problems/tree/master/0231-power-of-two) |
 | [0367-valid-perfect-square](https://github.com/omgorle15/LeetCode_Problems/tree/master/0367-valid-perfect-square) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/omgorle15/LeetCode_Problems/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/omgorle15/LeetCode_Problems/tree/master/0014-longest-common-prefix) |
 | [0067-add-binary](https://github.com/omgorle15/LeetCode_Problems/tree/master/0067-add-binary) |
+| [0168-excel-sheet-column-title](https://github.com/omgorle15/LeetCode_Problems/tree/master/0168-excel-sheet-column-title) |
 ## Trie
 |  |
 | ------- |
