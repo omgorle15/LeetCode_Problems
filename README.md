@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/omgorle15/LeetCode_Problems/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/omgorle15/LeetCode_Problems/tree/master/0014-longest-common-prefix) |
 | [0067-add-binary](https://github.com/omgorle15/LeetCode_Problems/tree/master/0067-add-binary) |
+| [0125-valid-palindrome](https://github.com/omgorle15/LeetCode_Problems/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/omgorle15/LeetCode_Problems/tree/master/0168-excel-sheet-column-title) |
 ## Trie
 |  |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/omgorle15/LeetCode_Problems/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/omgorle15/LeetCode_Problems/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/omgorle15/LeetCode_Problems/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/omgorle15/LeetCode_Problems/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/omgorle15/LeetCode_Problems/tree/master/0202-happy-number) |
 ## Greedy
 |  |
